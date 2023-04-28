@@ -1,0 +1,367 @@
+*{
+	padding:0;
+	margin:0;
+	color:white;
+	text-shadow: 1em #fff;
+	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+}
+
+
+
+
+@media (max-width:  320.97px) {
+    body{
+    	margin:0;
+    	padding:0;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+    	font-family:BSnell Roundhand, cursive;
+    	
+
+
+
+       	background: rgb(34,36,40);
+		background: linear-gradient(180deg, rgba(34,36,40,1) 3%, rgba(36,87,105,1) 43%, rgba(34,123,153,1) 79%);
+		background-repeat:no-repeat;
+		height: 2000px;
+		min-width:100%;
+
+
+        
+    }
+
+    html{
+		overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+		}
+
+    .container-fluid{
+    	margin: 0;
+    	padding:0;
+    	min-width: 99%;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+    }
+
+    #logo-marca{
+    	max-height: 100px;
+    	min-width: 99%;
+    }
+
+    #img-capa{
+    	margin: 0;
+    	padding:0;
+    	position: relative;
+    	top:-2em;
+    }
+
+    #texto-header-1{
+    	position: relative;
+    	top:-3em;
+    }
+
+    .lista{
+    	font-size:1.7em;
+    	padding:0.5em;
+    	
+    	
+
+    }
+
+    .lista-2{
+    	font-size:1.5em;
+    	padding:0.2em;
+    }
+
+   
+
+
+    i{
+    	margin-right:0.2em;
+    	color:#e7ca53;
+
+
+    }
+
+    .icone-lista-2{
+    	position: relative;
+    	left:0em;
+    	z-index: 3;
+    	font-size: 2em;
+    }
+
+}
+
+/* Celulares Moto G*/
+@media (min-width: 321px) and (max-width:  360.97px) {
+
+    body{
+    	margin:0;
+    	padding:0;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+    	font-family:BSnell Roundhand, cursive;
+    	
+
+
+
+       	background: rgb(34,36,40);
+		background: linear-gradient(180deg, rgba(34,36,40,1) 3%, rgba(36,87,105,1) 43%, rgba(34,123,153,1) 79%);
+		background-repeat:no-repeat;
+		height: 2000px;
+		min-width:100%;
+
+
+        
+    }
+
+    html{
+		overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+		}
+
+    .container-fluid{
+    	margin: 0;
+    	padding:0;
+    	min-width: 99%;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+    }
+
+    #logo-marca{
+    	max-height: 100px;
+    	min-width: 99%;
+    }
+
+    #img-capa{
+    	margin: 0;
+    	padding:0;
+    	position: relative;
+    	top:-2em;
+    }
+
+    #texto-header-1{
+    	position: relative;
+    	top:-3em;
+    }
+
+    .lista{
+    	font-size:1.7em;
+    	padding:0.5em;
+    	
+    	
+
+    }
+
+    .lista-2{
+    	font-size:1.5em;
+    	padding:0.2em;
+    }
+
+   
+
+
+    i{
+    	margin-right:0.2em;
+    	color:#e7ca53;
+
+
+    }
+
+    .icone-lista-2{
+    	position: relative;
+    	left:0em;
+    	z-index: 3;
+    	font-size: 2em;
+    }
+
+}
+
+@media (min-width: 361px) and (max-width:  375.97px){
+    body{
+    	margin:0;
+    	padding:0;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+    	font-family:BSnell Roundhand, cursive;
+    	
+
+
+
+       	background: rgb(34,36,40);
+		background: linear-gradient(180deg, rgba(34,36,40,1) 3%, rgba(36,87,105,1) 43%, rgba(34,123,153,1) 79%);
+		background-repeat:no-repeat;
+		height: 2000px;
+		min-width:100%;
+
+
+        
+    }
+
+    html{
+		overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+		}
+
+    .container-fluid{
+    	margin: 0;
+    	padding:0;
+    	min-width: 99%;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+    }
+
+    #logo-marca{
+    	max-height: 100px;
+    	min-width: 99%;
+    }
+
+    #img-capa{
+    	margin: 0;
+    	padding:0;
+    	position: relative;
+    	top:-2em;
+    }
+
+    #texto-header-1{
+    	position: relative;
+    	top:-3em;
+    }
+
+    .lista{
+    	font-size:1.7em;
+    	padding:0.5em;
+    	
+    	
+
+    }
+
+    .lista-2{
+    	font-size:1.5em;
+    	padding:0.2em;
+    }
+
+   
+
+
+    i{
+    	margin-right:0.2em;
+    	color:#e7ca53;
+
+
+    }
+
+    .icone-lista-2{
+    	position: relative;
+    	left:0em;
+    	z-index: 3;
+    	font-size: 2em;
+    }
+
+}
+
+@media (min-width: 376px) and (max-width:  428.98px) {
+
+	body{
+    	margin:0;
+    	padding:0;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+    	font-family:BSnell Roundhand, cursive;
+    	
+
+
+
+       	background: rgb(34,36,40);
+		background: linear-gradient(180deg, rgba(34,36,40,1) 3%, rgba(36,87,105,1) 43%, rgba(34,123,153,1) 79%);
+		background-repeat:no-repeat;
+		height: 2000px;
+		min-width:100%;
+
+
+        
+    }
+
+    html{
+		overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+
+		}
+
+    .container-fluid{
+    	margin: 0;
+    	padding:0;
+    	min-width: 99%;
+    	overflow-x:hidden;
+    	-moz-overflow-x:hidden;
+    	-webkit-overflow-x:hidden;
+    }
+
+    #logo-marca{
+    	max-height: 100px;
+    	min-width: 99%;
+    }
+
+    #img-capa{
+    	margin: 0;
+    	padding:0;
+    	position: relative;
+    	top:-2em;
+    }
+
+    #texto-header-1{
+    	position: relative;
+    	top:-3em;
+    }
+
+    .lista{
+    	font-size:1.7em;
+    	padding:0.5em;
+    	
+    	
+
+    }
+
+    .lista-2{
+    	font-size:1.5em;
+    	padding:0.2em;
+    }
+
+   
+
+
+    i{
+    	margin-right:0.2em;
+    	color:#e7ca53;
+
+
+    }
+
+    .icone-lista-2{
+    	position: relative;
+    	left:0em;
+    	z-index: 3;
+    	font-size: 2em;
+    }
+
+}
